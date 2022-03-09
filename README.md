@@ -9,7 +9,7 @@ filename: name the file that will contain the wordlist
 
 Ex: viva.txt
 
-extension: the extension number associated with the country of SIM provider
+extension: the extension number associated with the country or SIM provider
 
 Ex: 17
 
