@@ -1,11 +1,11 @@
-# phoneList
-light python script to generate a wordlist of all phone numbers belonging to a specific zone(sim)
+# phonebook.py
+light python script to generate a wordlist of all phone numbers belonging to a specific zone/sim
 
 # Usage:
 
 python phonelist.py
 ------------------------------------------------------
-filename: name the file that will contain the wordlist
+filename: name the file that will contain the phonebook
 
 Ex: viva.txt
 ---------------------------------------------------------------------------
