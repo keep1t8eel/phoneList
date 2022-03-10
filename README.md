@@ -1,5 +1,5 @@
 # phonebook.py
-light python script to generate a wordlist of all phone numbers belonging to a specific zone/sim
+light python script to generate a phonebook of all phone numbers belonging to a specific zone/sim
 
 # Usage:
 
