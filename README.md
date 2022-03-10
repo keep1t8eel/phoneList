@@ -3,7 +3,7 @@ light python script to generate a phonebook of all phone numbers belonging to a 
 
 # Usage:
 
-python phonelist.py
+python phonebook.py
 ------------------------------------------------------
 filename: name the file that will contain the phonebook
 
